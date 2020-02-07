@@ -1,0 +1,15 @@
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0rem;
+  margin: 0px;
+  background-color: #CCCCCC;
+}
+
+/* Make the arrows in collapsible list items go up/down */
+.rmwc-collapsible-list--open > .rmwc-collapsible-list__handle .mdc-list-item__meta {
+  transform: rotate(-180deg);
+}
+
+.rmwc-collapsible-list__children .mdc-list-item {
+  padding-left: 24rem;
+}

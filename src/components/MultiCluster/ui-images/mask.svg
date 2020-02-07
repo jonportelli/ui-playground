@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="75px" viewBox="0 0 106 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M53,7.10542736e-15 C71.3065356,7.10542736e-15 89.0657932,2.34746893 106,6.75167283 L106,6.75167283 L87.8011739,74.9998155 C76.6714525,72.1523347 65.0113219,70.6388786 52.9993386,70.6388786 C40.9883139,70.6388786 29.3289329,72.1522865 18.1997864,74.9996794 L0,6.75167283 C16.9358602,2.34746893 34.6951178,7.10542736e-15 53,7.10542736e-15 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Segments/Segment-Mask">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#613DB0" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
